@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: casually perusing learning oportunities can lead to unexpected journeys! I am learning Korean, taiko drum playing, salsa dancing, and eventually a career change into Full-Stack software engineering!
+
 <!--
 **jordandc20/jordandc20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
