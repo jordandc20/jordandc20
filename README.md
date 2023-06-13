@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: casually perusing learning oportunities can lead to unexpected journeys! I am learning Korean, taiko drum playing, salsa dancing, and eventually a career change into Full-Stack software engineering!
+- ⚡ Fun fact: embracing casual learning oportunities can lead to unexpected journeys! Learning a third language: Korean, taiko drumming, salsa dancing, and even a career change into Full-Stack software engineering!
+- 💬 Ask me about the unexpectedly similar journey of learning Korean and Programming
 
 <!--
 **jordandc20/jordandc20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
