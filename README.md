@@ -3,6 +3,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: embracing casual learning oportunities can lead to unexpected journeys! Learning a third language: Korean, taiko drumming, salsa dancing, and even a career change into Full-Stack software engineering!
 - 💬 Ask me about the unexpectedly similar journey of learning Korean and Programming
+- 📫 How to reach me:  https://www.linkedin.com/in/diana-c-jordan/   
 
 <!--
 **jordandc20/jordandc20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
