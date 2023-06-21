@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: embracing casual learning oportunities can lead to unexpected journeys! Learning a third language: Korean, taiko drumming, salsa dancing, and even a career change into Full-Stack software engineering!
+- ⚡ Fun fact: Embracing casual learning oportunities can lead to unexpected journeys:  learning a third language (Korean), taiko drumming, salsa dancing, and even a career change into Full-Stack software engineering!
 - 💬 Ask me about the unexpectedly similar journey of learning Korean and Programming
 - 📫 How to reach me:  https://www.linkedin.com/in/diana-c-jordan/   
 
