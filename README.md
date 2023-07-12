@@ -2,6 +2,7 @@
 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Embracing casual learning oportunities can lead to unexpected journeys:  learning a third language (Korean), taiko drumming, salsa dancing, and even a career change into Full-Stack software engineering!
+- 🌱 I’m currently learning NextJs and MUI
 - 💬 Ask me about the journey from lab bench to software
 - 📫 How to reach me:  https://www.linkedin.com/in/diana-c-jordan/
 
